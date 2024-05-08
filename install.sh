@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start Python HTTP server
-python -m http.server 8000 &
+python3 -m http.server 8000 &
 
 # Get the PID of the Python HTTP server process
 PID=$!
@@ -19,6 +19,3 @@ echo "Server running at http://localhost:8000"
 
 # Wait for the user to stop the server
 read -p "Press any key to stop the server..."
-
-# Stop the Python HTTP server
-kill $PID
