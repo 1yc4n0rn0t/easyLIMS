@@ -3,4 +3,4 @@
 
 ## An simple and selfhosted Laboratory Information Management Software
 
-<img src="/">
+<img src="screenshot.PNG">
