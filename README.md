@@ -1,2 +1,2 @@
 # easyLIMS 🔬
-An simple and selfhosted free Laboratory Information Management Software
+An simple and selfhosted Laboratory Information Management Software
